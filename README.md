@@ -7,7 +7,7 @@
 # Installation
 
 ```bash
-curl https://gitlab.com/Lumayee/gnome/-/raw/main/gnome.sh | bash
+curl https://raw.githubusercontent.com/Lumayee/Gnome/main/gnome.sh | bash
 ```
 
 ## Gnome Shell Extensions
